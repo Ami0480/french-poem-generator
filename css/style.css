@@ -49,11 +49,14 @@ form {
   font-size: 16px;
   line-height: 2;
   background-color: white;
-  padding: 10px;
+  padding: 20px;
   box-shadow: 3px 5px 3px rgba(128, 128, 128, 0.1);
   border-left: 3px solid #002966;
 }
 
+.poem strong {
+  color: #002966;
+}
 footer {
   font-size: 13px;
 
